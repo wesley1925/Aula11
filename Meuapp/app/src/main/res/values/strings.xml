@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meu app</string>
+
+    <string name="edit_message">Digite algo aqui!</string>
+    <string name="button_send">Enviar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_main">Atividade Principal</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">Mostra a mensagem</string>
+</resources>
